@@ -1,0 +1,53 @@
+body {
+    background-color:   #c2d6d6;
+}
+h1 {
+    color:  #329a66;
+    font-family: Helvetica;
+}
+h2 {
+  font-family: Helvetica;
+  font-style: normal;
+  font-size: 1.5em;
+}
+img {
+  border: 4px black dotted;
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+}
+
+img:hover {
+  border: 5px green solid;
+}
+.category {
+    font-family: Helvetica;
+    margin-left: 15px;
+}
+
+.category strong {
+    text-decoration: none;
+    font-size: 1.0em;
+    font-family: Helvetica;
+}
+.button {
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:15px;
+  }
+  .button:hover {
+  background-color: #329a66;
+  color: white;
+}
+#search {
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#search:hover {
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+}
